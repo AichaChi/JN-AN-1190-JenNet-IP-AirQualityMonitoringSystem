@@ -1,0 +1,1612 @@
+Archive member included because of file (symbol)
+
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libRecal_JN516x.a(JN5148ReCal.o)
+                              MibAdcStatus.o (symbol from plugin) (eAHI_AttemptCalibration)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM.o)
+                              Node.o (symbol from plugin) (PDM_vInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_Create.o)
+                              PDM.o (symbol from plugin) (iPDM_CreateFileSystemInRAM)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_EEPROM.o)
+                              AHI_EEPROM.o (symbol from plugin) (bPDM_InitialiseEEPROM)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_EEPROMsegmentStatus.o)
+                              PDM_Create.o (symbol from plugin) (bPDM_DoesEEPROMsegmentContainFileSystemHeader)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_ExtendedAPI.o)
+                              PDM.o (symbol from plugin) (PDM_eRegisterRecord)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystem.o)
+                              PDM.o (symbol from plugin) (u8PDM_CalculateSegmentsRequired)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemData.o)
+                              PDM.o (symbol from plugin) (iPDM_WriteDataWithIdToFileSystem)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemDelete.o)
+                              PDM.o (symbol from plugin) (vPDM_DeleteAllSegmentsInFileSystem)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemGenerate.o)
+                              PDM_Create.o (symbol from plugin) (vPDM_GenerateCleanFileSystem)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemMove.o)
+                              PDM_FileSystemDelete.o (symbol from plugin) (vPDM_MoveAllDataFromListToList)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemVerify.o)
+                              PDM_FileSystemGenerate.o (symbol from plugin) (iPDM_VerifyDataSequenceWithBufferId)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemVerifyAndRepair.o)
+                              PDM_EEPROMsegmentStatus.o (symbol from plugin) (iPDM_DetectFileSystemRecordMagicNumber)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_ImageBitmapReconstruct.o)
+                              PDM_FileSystemGenerate.o (symbol from plugin) (iPDM_ReconstructValidImageBitmap)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SearchAndListOrder.o)
+                              PDM_FileSystem.o (symbol from plugin) (vPDM_AddFileSystemElementToListInAscendingWearCountOrder)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_Segment.o)
+                              PDM_FileSystemData.o (symbol from plugin) (iPDM_WriteSegmentHeaderAndData)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentData.o)
+                              PDM_FileSystemVerify.o (symbol from plugin) (iPDM_ReadUserDataFromFileSystemRecord)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentReplace.o)
+                              PDM_FileSystemGenerate.o (symbol from plugin) (iPDM_ReconstructReplacedDataTable)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentSequenceExtend.o)
+                              PDM_ExtendedAPI.o (symbol from plugin) (iPDM_AppendDataToSegmentSequence)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentSequenceExtendDelete.o)
+                              PDM_FileSystemData.o (symbol from plugin) (bPDM_IsSequenceAppended)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentSequenceExtendReconstruct.o)
+                              PDM_FileSystemGenerate.o (symbol from plugin) (iPDM_ReconstructExtendedSegmentSequence)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentSequencePartialRead.o)
+                              PDM_ExtendedAPI.o (symbol from plugin) (iPDM_ReadPartialDataFromSegmentSequence)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentSequenceSave.o)
+                              PDM.o (symbol from plugin) (iPDM_DetermineSegmentSaveMechanism)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_WearLevelling.o)
+                              PDM_FileSystem.o (symbol from plugin) (iPDM_GetWearLevelledBuffer)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_AESccmCODEC.o)
+                              PDM_SegmentData.o (symbol from plugin) (vPDM_AESccmCODEC)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(dlist.o)
+                              PDM_Create.o (symbol from plugin) (vDLISTinitialise)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PdmOsStub.o)
+                              (OS_eEnterCriticalSection_stub)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_Bitmap.o)
+                              PDM_FileSystemGenerate.o (symbol from plugin) (vPDM_ReconstructValidBitmap)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_EEPROMheaderAccessFunctions.o)
+                              PDM_FileSystemDelete.o (symbol from plugin) (vPDM_SetEEPROMandFileSystemValidState)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_EEPROMReadAndWrite.o)
+                              PDM_EEPROMsegmentStatus.o (symbol from plugin) (iPDM_ReadSegmentHeaderFromEEPROM)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentSequenceExtendFilter.o)
+                              PDM_SegmentSequenceExtendReconstruct.o (symbol from plugin) (vPDM_FilterDuplicateAppendedSegmentsFromList)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJIP_JN516x.a(jip.o)
+                              MibNwkSecurity.o (symbol from plugin) (eJIP_Init)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJIP_JN516x.a(jip_traps.o)
+                              jip.o (symbol from plugin) (eJIP_TrapsInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJIP_JN516x.a(JIP_MIB_Network.o)
+                              jip.o (symbol from plugin) (vNetworkModule_Update)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJIP_JN516x.a(JIP_MIB_Node.o)
+                              MibNode.o (symbol from plugin) (vJIP_RegisterSetNameCallback)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJIP_JN516x.a(JIP_MIB_Groups.o)
+                              jip.o (symbol from plugin) (vGroupsModule_Register)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJIP_JN516x.a(JIP_MIB_OND.o)
+                              jip.o (symbol from plugin) (vONDModule_Register)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJIP_JN516x.a(JIP_MIB_Device.o)
+                              MibNwkSecurity.o (symbol from plugin) (vJIP_SetDeviceTypes)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJIP_JN516x.a(AccessFunctions.o)
+                              MibNwkSecurityDec.o (symbol from plugin) (vGetUint8)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJIP_JN516x.a(jip_remote.o)
+                              JIP_MIB_Network.o (symbol from plugin) (eJIP_Remote_TableGet)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJenNet_JN516x.a(JenNetCommon.o)
+                              JIP_MIB_Network.o (symbol from plugin) (u16Api_GetDepth)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJenNet_JN516x.a(rand.o)
+                              JenNetCommon.o (symbol from plugin) (srand)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJenNet_JN516x.a(NetworkCoordRouter.o)
+                              MibNwkSecurity.o (symbol from plugin) (vApi_SetUserBeaconBits)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJenNet_JN516x.a(ProcessAndRoute.o)
+                              NetworkCoordRouter.o (symbol from plugin) (vPAR_Init)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJenNet_JN516x.a(NetworkED.o)
+                              JenNetCommon.o (symbol from plugin) (vNed_ScanTimeoutHandler)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJenNet_JN516x.a(OSTimerDriver.o)
+                              JenNetCommon.o (symbol from plugin) (vHWTimerInitVect)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJenNet_JN516x.a(Interrupt.o)
+                              jip.o (symbol from plugin) (vInterrupt_Suspend)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJenNet_JN516x.a(Sec2006.o)
+                              NetworkCoordRouter.o (symbol from plugin) (vSecurityAddDevice)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJenNet_JN516x.a(LowEnergySupport.o)
+                              NetworkCoordRouter.o (symbol from plugin) (vInitialiseLowEnergy)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJenNet_JN516x.a(JenNet_OND.o)
+                              MibNwkSecurity.o (symbol from plugin) (eOND_SleepingDevInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(6LPcommon.o)
+                              JIP_MIB_Network.o (symbol from plugin) (e6LP_GetLinkLayer)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(NetworkFormation.o)
+                              OSTimerDriver.o (symbol from plugin) (v6LP_RouteHwEvent)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(NetworkFormationTree.o)
+                              NetworkFormation.o (symbol from plugin) (i6LP_StartTreeStack)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(eui.o)
+                              NetworkFormation.o (symbol from plugin) (vEUI_SetAddressPrefix)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(ipv6buffer.o)
+                              jip.o (symbol from plugin) (u16_6LP_DefGetSizeOfIPv6Record)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(ipv6checksum.o)
+                              LowEnergySupport.o (symbol from plugin) (u32IPv6_CalculatePayloadDataChecksum)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(receive.o)
+                              NetworkFormationTree.o (symbol from plugin) (b6LP_HandleRxEvent)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(socket.o)
+                              receive.o (symbol from plugin) (psSocketGroupAddrs)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(transmit.o)
+                              NetworkFormationTree.o (symbol from plugin) (vHandleTxEvent)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(udp.o)
+                              ipv6checksum.o (symbol from plugin) (u16UDP_CalculateUDPheaderChecksum)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(groupcast.o)
+                              NetworkFormationTree.o (symbol from plugin) (vGroupcastReportingInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(6LPQueue.o)
+                              NetworkFormation.o (symbol from plugin) (v6LP_QueueInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(6lowpan.o)
+                              NetworkFormation.o (symbol from plugin) (i6LP_Create6LPdataManager)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(bitmap.o)
+                              receive.o (symbol from plugin) (iBM_InitialiseFragmentBitmap)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(fheader.o)
+                              receive.o (symbol from plugin) (iFH_ReadFragmentHeader)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(fragment.o)
+                              6lowpan.o (symbol from plugin) (iTX_FragmentPayload)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(gateway.o)
+                              groupcast.o (symbol from plugin) (i6LP_DefIpSendTo)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(icmpv6.o)
+                              receive.o (symbol from plugin) (iICMP_SendICMPerrorMessage)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(ipv6.o)
+                              gateway.o (symbol from plugin) (iIPv6_FillInIPv6header)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(ipv6bitstream.o)
+                              6lowpan.o (symbol from plugin) (iIPv6_WriteIPv6headerIntoStructure)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(ipv6bitstreamCompressedBytewise.o)
+                              ipv6bitstream.o (symbol from plugin) (vIPv6_WriteBytewiseCompressedIPv6HeaderIntoBuffer)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(ipv6bitstreamUncompressed.o)
+                              ipv6bitstream.o (symbol from plugin) (vIPv6_WriteUncompressedIPv6HeaderIntoStructure)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a(ipv6compress.o)
+                              6lowpan.o (symbol from plugin) (iIPv6_CompressIPv6packet)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMac_JN516x.a(Mini_Main.o)
+                              JenNetCommon.o (symbol from plugin) (vMiniMac_SaveSettings)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMac_JN516x.a(Mini_Association.o)
+                              JenNetCommon.o (symbol from plugin) (eMiniMac_MLME_AssociateReq)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMac_JN516x.a(Mini_Mcps.o)
+                              JenNetCommon.o (symbol from plugin) (psGetTxFrameBuffer)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMac_JN516x.a(Mini_Poll.o)
+                              NetworkED.o (symbol from plugin) (eMiniMac_MLME_DataReq)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMac_JN516x.a(Mini_Running.o)
+                              Mini_Association.o (symbol from plugin) (vRunningRxCallback)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMac_JN516x.a(Mini_Scan.o)
+                              JenNetCommon.o (symbol from plugin) (eMiniMac_MLME_ScanReq)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMac_JN516x.a(Mini_Security.o)
+                              (eSecurityTxPrepare)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMac_JN516x.a(Mini_Security_AES.o)
+                              Mini_Security.o (symbol from plugin) (u8AclSuiteToM)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMac_JN516x.a(Mini_TimerServer.o)
+                              Mini_Main.o (symbol from plugin) (vTimerInitialise)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMac_JN516x.a(Mini_TxRx.o)
+                              Mini_Mcps.o (symbol from plugin) (vAddToTxQueue)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMac_JN516x.a(Endian.o)
+                              Mini_Main.o (symbol from plugin) (vFromU16ToLe)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMacShim_JN516x.a(Mini_Shim.o)
+                              MibNode.o (symbol from plugin) (pvAppApiDefGetMacAddrLocation)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMMAC_JN516x.a(MMAC.o)
+                              Mini_Main.o (symbol from plugin) (vMMAC_Enable)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libAes_JN516x.a(AEScoprocessorAPI.o)
+                              LowEnergySupport.o (symbol from plugin) (vACI_CmdWaitBusy)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libAes_JN516x.a(AEScoprocessorCCM.o)
+                              PDM_AESccmCODEC.o (symbol from plugin) (bACI_CCMstar)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libAes_JN516x.a(AES_CCM_Star.o)
+                              LowEnergySupport.o (symbol from plugin) (vACI_OptimisedCcmStar)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Analogue.o)
+                              MibAdcStatus.o (symbol from plugin) (bAHI_APRegulatorEnabled)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Dio.o)
+                              Node.o (symbol from plugin) (vAHI_DioSetDirection)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Init.o)
+                              NetworkCoordRouter.o (symbol from plugin) (u32AHI_Init)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+                              Mini_Main.o (symbol from plugin) (vAHI_InterruptSetPriority)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Reset.o)
+                              DeviceTemplate.o (symbol from plugin) (vAHI_SwReset)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Si.o)
+                              AHI_Init.o (symbol from plugin) (vAHI_IntHandlerSi)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Spi.o)
+                              AHI_Init.o (symbol from plugin) (vAHI_IntHandlerSpiMaster)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_System.o)
+                              Node.o (symbol from plugin) (vAHI_ExtendedTemperatureOperation)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_TickTimer.o)
+                              OSTimerDriver.o (symbol from plugin) (vAHI_TickTimerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Timer.o)
+                              JenNetCommon.o (symbol from plugin) (vAHI_TimerEnable)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_TimerInt.o)
+                              AHI_Init.o (symbol from plugin) (vAHI_IntHandlerTimer0)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Uart.o)
+                              NetworkFormation.o (symbol from plugin) (u8AHI_UartReadData)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_WakeTimer.o)
+                              Node.o (symbol from plugin) (vAHI_WakeTimerEnable)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Flash.o)
+                              AHI_System.o (symbol from plugin) (vAHI_FlashAndEEPROMControllerIntHandler)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_FlashPoll.o)
+                              PdmOsStub.o (symbol from plugin) (bAHI_FlashGetMutex)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_SpiSlave.o)
+                              AHI_Init.o (symbol from plugin) (vAHI_IntHandlerSpiSlave)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Infrared.o)
+                              AHI_TimerInt.o (symbol from plugin) (vAHI_IntHandlerInfrared)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(InternalFlashApi.o)
+                              AHI_Flash.o (symbol from plugin) (bFlashErase)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMicroSpecific_JN516x.a(MicroInt.o)
+                              PdmOsStub.o (symbol from plugin) (vMicroIntEnableOnly)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall.o)
+                              AHI_Reset.o (symbol from plugin) (vMicroSyscall)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                              (_exception_external_interrupt)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libBoot_JN516x.a(Heap.o)
+                              (u32HeapStart)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a(PDM_ImageBitmap.o)
+                              JenNet_OND.o (symbol from plugin) (PDM_eCreateImageBitmap)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJenNet_JN516x.a(JenNetApiPatch.o)
+                              NetworkFormationTree.o (symbol from plugin) (vJenNet_ResumeEndDevice)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libAes_JN516x.a(AEScoprocessorAPIinterrupts.o)
+                              AHI_Init.o (symbol from plugin) (vACI_IntHandlerAes)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o (memcmp)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o (memcpy)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memmove.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o (memmove)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o (memset)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans17.ltrans.o (strcpy)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans13.ltrans.o (strlen)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans13.ltrans.o (strncpy)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o (__udivsi3)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o (__divsi3)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans5.ltrans.o (__umodsi3)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans1.ltrans.o (__modsi3)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans5.ltrans.o (__muldi3)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_ashldi3.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o (__ashldi3)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                              C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans5.ltrans.o (__udivdi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+bMiniMacConfig_DiscardUnsuccessfulAssocResponses
+                    0x1               Mini_Association.o (symbol from plugin)
+u8LastPktLqi        0x1               6LPQueue.o (symbol from plugin)
+prMiniMacTofRxHandler
+                    0x4               Mini_Running.o (symbol from plugin)
+sNoSecurity         0x4               JenNetCommon.o (symbol from plugin)
+sLastSrcAddr        0x20              jip.o (symbol from plugin)
+gu32_SR             0x4               Interrupt.o (symbol from plugin)
+gu32Counter         0x4               Interrupt.o (symbol from plugin)
+bLastPktDirect      0x1               6LPQueue.o (symbol from plugin)
+u32SleepPeriod      0x4               JenNetCommon.o (symbol from plugin)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 DeviceTemplate.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o
+ .rodata        0x0000000000000000        0x4 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans8.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans9.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans10.ltrans.o
+ .rodata        0x0000000000000000        0x1 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans10.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans11.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans15.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans15.ltrans.o
+ .rodata        0x0000000000000000        0x1 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans16.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans17.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans18.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans19.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans20.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans20.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans22.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans22.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans23.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans23.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans25.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans26.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans26.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans27.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans29.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans30.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans30.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans31.ltrans.o
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_ashldi3.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_ashldi3.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .eh_frame      0x0000000000000000       0x38 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .text          0x0000000000000000        0x0 Node.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Address.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Exception.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Security.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_EEPROM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MibNode.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MibNodeDec.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MibAdcStatus.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MibAdcStatusDec.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MibNodeControl.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MibNodeControlDec.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MibNwkStatus.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MibNwkStatusDec.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MibNwkSecurity.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MibNwkSecurityDec.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 JN5148ReCal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_Create.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_EEPROM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_EEPROMsegmentStatus.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_ExtendedAPI.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystem.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemData.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemDelete.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemGenerate.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemMove.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemVerify.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemVerifyAndRepair.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_ImageBitmapReconstruct.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SearchAndListOrder.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_Segment.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentData.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentReplace.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentSequenceExtend.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentSequenceExtendDelete.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentSequenceExtendReconstruct.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentSequencePartialRead.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentSequenceSave.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_WearLevelling.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_AESccmCODEC.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 dlist.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PdmOsStub.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_Bitmap.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_EEPROMheaderAccessFunctions.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_EEPROMReadAndWrite.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentSequenceExtendFilter.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 jip.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 jip_traps.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 JIP_MIB_Network.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 JIP_MIB_Node.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 JIP_MIB_Groups.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 JIP_MIB_OND.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 JIP_MIB_Device.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AccessFunctions.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 jip_remote.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 JenNetCommon.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 rand.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 NetworkCoordRouter.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ProcessAndRoute.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 NetworkED.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 OSTimerDriver.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Interrupt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Sec2006.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowEnergySupport.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 JenNet_OND.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 6LPcommon.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 NetworkFormation.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 NetworkFormationTree.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 eui.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ipv6buffer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ipv6checksum.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 receive.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 socket.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 transmit.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 udp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 groupcast.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 6LPQueue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 6lowpan.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 bitmap.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 fheader.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 fragment.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 gateway.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 icmpv6.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ipv6.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ipv6bitstream.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ipv6bitstreamCompressedBytewise.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ipv6bitstreamUncompressed.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ipv6compress.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Association.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Mcps.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Poll.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Running.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Scan.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Security.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Security_AES.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_TimerServer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_TxRx.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Endian.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Shim.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MMAC.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorAPI.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorCCM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AES_CCM_Star.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Analogue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Dio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Init.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+ .bss           0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+ .text          0x0000000000000000        0x0 AHI_Reset.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Si.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Spi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_System.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_TickTimer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Timer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_TimerInt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_WakeTimer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Flash.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_FlashPoll.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_SpiSlave.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Infrared.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 InternalFlashApi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MicroInt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall.o)
+ .data          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall.o)
+ .bss           0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall.o)
+ .text          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .data          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .bss           0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .text          0x0000000000000000        0x0 Heap.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_ImageBitmap.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 JenNetApiPatch.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorAPIinterrupts.o (symbol from plugin)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x0000000000080000 0x0000000000040000
+ram              0x000000000400004c 0x0000000000007fb4
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000088011174                OND_DEV_TYPE = 0x88011174
+                0x0000000000001430                OND_CHIPSET = 0x1430
+                0x0000000000005408                OND_REVISION = 0x5408
+START GROUP
+LOAD DeviceTemplate.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans1.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans2.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans3.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans4.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans5.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans6.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans7.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans8.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans9.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans10.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans11.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans12.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans13.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans14.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans15.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans16.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans17.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans18.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans19.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans20.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans21.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans22.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans23.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans24.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans25.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans26.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans27.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans28.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans29.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans30.ltrans.o
+LOAD C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans31.ltrans.o
+LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a
+LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD Node.o
+LOAD Address.o
+LOAD Exception.o
+LOAD Security.o
+LOAD AHI_EEPROM.o
+LOAD MibNode.o
+LOAD MibNodeDec.o
+LOAD MibAdcStatus.o
+LOAD MibAdcStatusDec.o
+LOAD MibNodeControl.o
+LOAD MibNodeControlDec.o
+LOAD MibNwkStatus.o
+LOAD MibNwkStatusDec.o
+LOAD MibNwkSecurity.o
+LOAD MibNwkSecurityDec.o
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libDBG_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libRecal_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJIP_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libJenNet_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\lib6LP_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMac_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMiniMacShim_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMMAC_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libAes_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMicroSpecific_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libBoot_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libPDM_EEPROM_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Platform/DK4/Library\libBoardLib_JN516x.a
+END GROUP
+LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a
+LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+                0x0000000000000800                _stack_size = 0x800
+                0x0000000000003340                _minimum_heap_size = 0x3340
+                0x0000000000080038                _exception_vsr_table = 0x80038
+                0x0000000004000000                pSPIflashFncTable = 0x4000000
+                0x0000000000000800                _stack_size = 0x800
+                0x0000000000003340                _minimum_heap_size = 0x3340
+                0x0000000000000044                restore_state = 0x44
+                0x000000000000004a                bZSPIWaitWIPClear = 0x4a
+                0x0000000000000050                u16ZSPIflashRDID = 0x50
+                0x0000000000000056                u8SelectFlashChipType = 0x56
+                0x000000000000005c                memcpy = 0x5c
+                0x0000000000000066                vBootFlashProg = 0x66
+                [0x0000000000003340]                _minimum_heap_size = DEFINED (_minimum_heap_size)?_minimum_heap_size:0xd16
+                0x0000000000000000                _SwConfig = (DEFINED (g_bSWConf_Debug) | (DEFINED (g_bSWConf_AltDebugPort) << 0x1))
+
+.version        0x000000000007fffc        0x4
+                0x000000000007fffc        0x4 LONG 0x7030008
+
+.bir            0x0000000000080000       0x10
+                0x0000000000080000                _flash_start = ABSOLUTE (.)
+                0x0000000000080000                _flash_beg = ABSOLUTE (.)
+                0x0000000000080000        0x4 LONG 0x12345678
+                0x0000000000080004        0x4 LONG 0x11223344
+                0x0000000000080008        0x4 LONG 0x55667788
+                0x000000000008000c        0x1 BYTE 0x8
+                0x000000000008000d        0x1 BYTE 0x1
+                0x000000000008000e        0x2 SHORT 0x0
+
+.flashheader    0x0000000000080010       0x28
+                0x0000000000080010        0x4 LONG 0x0
+                0x0000000000080014        0x4 LONG 0x0
+                0x0000000000080018        0x4 LONG 0x0
+                0x000000000008001c        0x2 SHORT 0x0
+                0x000000000008001e        0x2 SHORT 0x0 ABSOLUTE (_SwConfig)
+                0x0000000000080020                _enc_start = ABSOLUTE (.)
+                0x0000000000080020        0x4 LONG 0x15ba0 ABSOLUTE (_image_len)
+                0x0000000000080010                _enc_offset = (_enc_start & 0xf)
+                [0x0000000000080030]                _enc_start = (_enc_start - _flash_beg)
+                0x0000000000080024        0x4 LONG 0x957f4 ABSOLUTE (_flash_data_start)
+                0x0000000000080028        0x2 SHORT 0x13 ((ABSOLUTE (_ram_data_start) / 0x4) & 0xffff)
+                0x000000000008002a        0x2 SHORT 0xeb ((ABSOLUTE (_ram_data_len) / 0x4) & 0xffff)
+                0x000000000008002c        0x2 SHORT 0xfe ((ABSOLUTE (_bss_start) / 0x4) & 0xffff)
+                0x000000000008002e        0x2 SHORT 0x263 ((ABSOLUTE (_bss_len) / 0x4) & 0xffff)
+                0x0000000000080030        0x4 LONG 0x94ef4 ABSOLUTE (AppWarmStart)
+                0x0000000000080034        0x4 LONG 0x94ecf ABSOLUTE (AppColdStart)
+                0x0000000000000044                PROVIDE (vException_BusError, restore_state)
+                0x0000000000000044                PROVIDE (vException_UnalignedAccess, restore_state)
+                0x0000000000000044                PROVIDE (vException_IllegalInstruction, restore_state)
+                0x0000000000000044                PROVIDE (vException_SysCall, restore_state)
+                0x0000000000000044                PROVIDE (vException_Trap, restore_state)
+                0x0000000000000044                PROVIDE (vException_StackOverflow, restore_state)
+                0x0000000000080038                . = ABSOLUTE (_exception_vsr_table)
+
+.vsr_table      0x0000000000080038       0x18
+                0x0000000000080038        0x4 LONG 0x92a1f ABSOLUTE (vException_BusError)
+                0x000000000008003c        0x4 LONG 0x92a17 ABSOLUTE (vException_UnalignedAccess)
+                0x0000000000080040        0x4 LONG 0x92a0f ABSOLUTE (vException_IllegalInstruction)
+                0x0000000000080044        0x4 LONG 0x44 ABSOLUTE (vException_SysCall)
+                0x0000000000080048        0x4 LONG 0x929ff ABSOLUTE (vException_Trap)
+                0x000000000008004c        0x4 LONG 0x92a07 ABSOLUTE (vException_StackOverflow)
+
+.vsr_handlers   0x0000000000080050       0xaa
+ *(.vsr_handlers)
+ .vsr_handlers  0x0000000000080050       0xaa c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                0x0000000000080050                _exception_external_interrupt
+                0x00000000000800f8                _default_vsr_dummy
+
+.rodata         0x00000000000800fc      0x483
+ *(.rodata*)
+ .rodata        0x00000000000800fc       0x30 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o
+ .rodata        0x000000000008012c        0x8 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans1.ltrans.o
+ .rodata        0x0000000000080134       0x34 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans3.ltrans.o
+ .rodata        0x0000000000080168       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans4.ltrans.o
+ *fill*         0x000000000008017a        0x2 00
+ .rodata        0x000000000008017c        0x8 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans7.ltrans.o
+ .rodata        0x0000000000080184        0x4 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans12.ltrans.o
+ .rodata.str1.1
+                0x0000000000080188      0x113 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans13.ltrans.o
+                                        0x122 (size before relaxing)
+ *fill*         0x000000000008029b        0x1 00
+ .rodata        0x000000000008029c      0x148 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans13.ltrans.o
+ .rodata        0x00000000000803e4       0x14 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans14.ltrans.o
+ .rodata        0x00000000000803f8        0x8 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans17.ltrans.o
+ .rodata        0x0000000000080400        0x4 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans19.ltrans.o
+ .rodata        0x0000000000080404       0x24 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans21.ltrans.o
+                0x0000000000080404                hMibNodeControl
+ .rodata.str1.1
+                0x0000000000080428       0x19 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans21.ltrans.o
+                                         0x1f (size before relaxing)
+ *fill*         0x0000000000080441        0x3 00
+ .rodata        0x0000000000080444       0x3c C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans24.ltrans.o
+                0x0000000000080444                aprEventHandler.13557
+                0x0000000000080470                sBroadcastAddr.13418
+                0x0000000000080478                sUnknownMacAddr.13420
+ .rodata        0x0000000000080480       0x90 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans28.ltrans.o
+                0x0000000000080480                hMibNwkStatus
+                0x0000000000080484                hMibNwkSecurity
+ .rodata.str1.1
+                0x0000000000080510       0x6f C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans28.ltrans.o
+
+.text           0x0000000000080580    0x15273
+ *(.text*)
+ .text          0x0000000000080580     0x1308 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o
+                0x0000000000080580                iUDP_GetUDPheaderSize
+                0x00000000000805c9                boIdSearchMatch.16021
+                0x00000000000805dd                boPortSearchMatch.16017
+                0x00000000000805f1                iWriteIPv6andDataHeaders
+                0x00000000000806ed                iIPv6_CalculateIPv6PseudoHeaderChecksum
+                0x0000000000080744                boBufferByHandleSearchMatch.15172
+                0x0000000000080767                boTagIdSearchMatch.15176
+                0x0000000000080786                boBufferReadyToTXSearchMatch.15168
+                0x000000000008079f                boBufferByTagIdAndSrcAddrSearchMatch.15164
+                0x00000000000807fc                boAddressSearchMatch.15160
+                0x0000000000080904                vHandleNwkCallback.14341
+                0x000000000008092e                vQueueApi.13152
+                0x0000000000080941                vEstablishRoute_Backoff.11798
+                0x0000000000080950                vActiveScan_Backoff.11803
+                0x0000000000080953                vNed_StateTimeoutHandler
+                0x0000000000080962                vNed_PollPeriodHandler
+                0x0000000000080971                vNed_PollTimeoutHandler
+                0x00000000000809a3                vNed_ScanTimeoutHandler
+                0x0000000000080a2c                vRouterActiveScanResponse_Backoff
+                0x0000000000080a3b                vActiveScan_Backoff.10225
+                0x0000000000080a3e                bOND_SafeToSleep.13140
+                0x0000000000080a67                vScanOrAssociate_Backoff
+                0x0000000000080a7c                u8GroupAddUnique.16973
+                0x0000000000080abc                u8CompressAddrs.16958
+                0x0000000000080ba9                u8GetChangedButUnnotifiedGroups.16025
+                0x0000000000080c0e                b6LP_HandleRxEvent
+                0x0000000000080c2d                u16IPv6_Truncate32bitChecksumTo16bit
+                0x0000000000080c52                u32IPv6_CalculatePayloadDataChecksum
+                0x0000000000080c93                u16_6LP_DefGetSizeOfIPv6Record
+                0x0000000000080ca9                i6LP_DefCreateInterfaceIdFrom64
+                0x0000000000080cdd                eEUI_CompareWithPrefix
+                0x0000000000080d22                eEUI_CompareWithDeviceAddress
+                0x0000000000080da8                vReturnBuffer.13908
+                0x0000000000080dd2                vMiniMac_ReturnTxBufferCallback
+                0x0000000000080dda                eOND_DevGetImage
+                0x0000000000080ebd                vGetImage32.8677
+                0x0000000000080eda                vGetImage16.8673
+                0x0000000000080ef7                vGetImage8.8669
+                0x0000000000080f14                vFillBlockBitmap.13166
+                0x0000000000080f53                vOND_GenerateEvent
+                0x0000000000080f94                eStartDownload.8656
+                0x0000000000080ff2                eLoadImage.8652
+                0x0000000000081030                vStartBlockTimer.13210
+                0x0000000000081074                u8DetermineFlashSize.13160
+                0x000000000008109b                psSearchDatabase.12745
+                0x00000000000810c5                vSecurityUpdateKey
+                0x000000000008110c                vApi_SetNwkKey
+                0x0000000000081123                MibNwkSecurity_vSetSecurityKey.part.1.2982
+                0x0000000000081138                u8SecurityIsNeighbour
+                0x0000000000081181                u8SecurityFreeEntry
+                0x00000000000811ca                vInterrupt_Resume
+                0x00000000000811ff                vInterrupt_Suspend
+                0x0000000000081238                eJIP_RegisterMib
+                0x0000000000081291                iNed_StopTimerVect
+                0x00000000000812b6                u16GetNextHopVect
+                0x0000000000081305                vSwap.11084
+                0x0000000000081344                bNwk_GetNextHopAddressVect
+                0x00000000000813a3                bApi_GetNeighbourTableEntry
+                0x0000000000081471                vGetParentMacAddress.7788
+                0x00000000000814a5                vNwk_SetDepthVect
+                0x00000000000814ea                bCheckRxSeqNoVect
+                0x000000000008157a                bNwk_IsParentVect
+                0x00000000000815b2                bNwk_IsChild
+                0x00000000000815fb                vJnc_HandleBeaconVect
+                0x0000000000081813                vInitialiseChildEntry.10230
+ .text          0x0000000000081888      0xdf4 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans1.ltrans.o
+                0x0000000000081888                v6LP_Tick
+ .text          0x000000000008267c      0xb38 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans2.ltrans.o
+                0x000000000008267c                Node_vPdmInit.constprop.103
+ .text          0x00000000000831b4      0xe17 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans3.ltrans.o
+                0x00000000000831b4                pvHeapAllocOverflowProtect.2072
+                0x00000000000831e3                vACI_IntHandlerAes
+                0x0000000000083208                pvHeap_DefAlloc.24437
+                0x0000000000083273                bIssueACIcommand.constprop.125
+                0x00000000000832b7                vAHI_AdcEnable.constprop.114
+                0x00000000000832f1                vPDM_SetEEPROMandFileSystemValidState
+                0x000000000008334f                vMicroIntEnableOnly.constprop.100
+                0x000000000008337b                eMiniMac_MCPS_PurgeReq
+                0x00000000000833e0                vSetChannelAndPower
+                0x0000000000083467                vMiniMac_PLME_SetReq_Power
+                0x0000000000083490                eSetTxPower.8182
+                0x00000000000834b0                vMiniMac_PLME_SetReq_Channel
+                0x00000000000834b8                vMiniMac_SetHighPowerMode.constprop.98
+                0x00000000000834e2                v6LP_SocketGroupChangeAcked
+                0x00000000000835b4                vMarkRouteAsMissing
+                0x0000000000083647                iIPv6_CompressIPv6packet
+                0x00000000000839dc                u16AddNextHopVect
+                0x0000000000083ae8                bStoreJHandle
+                0x0000000000083b4e                bObtainJHandle.part.10.9349
+                0x0000000000083b89                bRetrieveJHandle
+                0x0000000000083be5                vAHI_StartRandomNumberGenerator.constprop.90
+                0x0000000000083bfc                vAHI_WakeTimerEnable.part.0.23947.constprop.88
+                0x0000000000083c44                vAHI_TimerEnable.part.1.23514.constprop.85
+                0x0000000000083cbe                vStartTimer.part.0.23502.constprop.81
+                0x0000000000083ceb                vAHI_TimerDIOControl.constprop.78
+                0x0000000000083d0b                vMiniMac_MLME_SetReq_PanId
+                0x0000000000083d48                vMiniMac_MLME_SetReq_ShortAddr
+                0x0000000000083d56                bJnc_SetJoinProfile.constprop.76
+                0x0000000000083da2                bJnc_SetRunProfile.constprop.67
+                0x0000000000083e12                bAHI_FlashInit.constprop.66
+                0x0000000000083e85                vAHI_SpiRestoreConfiguration.constprop.60
+                0x0000000000083ec6                vAHI_SpiReadConfiguration.constprop.57
+                0x0000000000083f00                vConfigureSpi
+                0x0000000000083f40                bAHI_FullFlashRead
+                0x0000000000083f83                vAHI_WakeTimerStop.part.3.23961.constprop.33
+                0x0000000000083f9e                u32AHI_WakeTimerCalibrate
+ .text.unlikely
+                0x0000000000083fcb       0xda C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans3.ltrans.o
+                0x0000000000083fe0                bAHI_SetClockRate.part.0.23377.constprop.37
+ .text          0x00000000000840a5      0xe42 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans4.ltrans.o
+                0x0000000000084264                eBasicTxCompleteHandler
+                0x0000000000084269                vTxRxTimeout.21725
+                0x00000000000842c9                iIPv6_WriteIPv6HeaderIntoBuffer
+                0x0000000000084436                iIPv6_WriteDataExtensionHeaderIntoBuffer
+                0x0000000000084547                pvHeap_Alloc
+                0x0000000000084556                vBlockReqToQueue.13182
+                0x00000000000845d5                u32AHI_Init
+                0x0000000000084697                vMicroIntRestoreState
+                0x00000000000846a3                bAHI_FlashReleaseMutex
+                0x00000000000846c0                bAHI_FlashGetMutex
+                0x00000000000846e6                u32RaiseDigitalVoltage
+                0x0000000000084706                u8AHI_WakeTimerFiredStatus
+                0x000000000008471a                u64AHI_WakeTimerReadLarge.part.5.23967
+                0x000000000008474f                vAHI_WakeTimerStartLarge.part.2.23956
+                0x00000000000847a7                vAHI_TickTimerInterval
+                0x00000000000847c5                vAHI_TickTimerIntEnable
+                0x0000000000084820                vAHI_TickTimerConfigure
+                0x000000000008483b                bAHI_RndNumPoll
+                0x000000000008485d                vAHI_CpuDoze
+                0x0000000000084870                vAHI_SwReset
+                0x0000000000084881                vAHI_DioSetOutput
+                0x0000000000084895                vJIP_StayAwakeRequest
+                0x00000000000848b8                vAHI_DioSetDirection
+                0x00000000000848cc                vAHI_AdcStartSample
+                0x000000000008491e                vACI_CmdWaitBusy
+                0x0000000000084982                vACI_OptimisedCcmStar
+                0x0000000000084b9a                pvAppApiDefGetMacAddrLocation
+                0x0000000000084bbb                u32FromLe
+                0x0000000000084bdc                psSearchForFrameToSend
+                0x0000000000084c2a                vRadioToOff
+                0x0000000000084c47                eMiniMac_FrameInProgress
+                0x0000000000084c72                vRemoveFromTxQueue
+                0x0000000000084cae                vAddToTxQueue
+                0x0000000000084ce4                vEnableReceive.21730
+                0x0000000000084d25                vStartReceive
+                0x0000000000084d33                vWriteKeyToHardware.21409
+                0x0000000000084d55                psLookUpKeyDescriptor.21402
+                0x0000000000084d7e                u8GetHeaderSize
+                0x0000000000084dbb                eSecurityTxPrepare
+                0x0000000000084e38                iIPv6_WriteDataIntoStructure
+                0x0000000000084e9e                iIPv6_GetProtocolSourcePortNumber
+ .text          0x0000000000084ee7      0xf35 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans5.ltrans.o
+                0x0000000000084ee7                eOrphanNotificationSent.21220
+                0x0000000000084f30                eClearGroups.8458
+                0x0000000000084f91                Node_vPreSleepCallback
+                0x000000000008504b                vGetNeighbourTable.7792
+                0x0000000000085123                vGetNetworkTable
+                0x000000000008527d                bPDM_IsEEPROMsegmentErased
+                0x00000000000852ee                u8AddNeighbourVect
+                0x0000000000085368                vNwk_DeleteChildVect
+                0x00000000000854d8                vPAR_UnknownNode
+                0x0000000000085505                MibAdcStatus_vStart
+                0x0000000000085591                v6LP_QueueRemoveDefragTimer
+                0x00000000000855f7                iIPv6_FreeIPv6packetBuffer
+                0x0000000000085663                i6LP_DefRecvFrom.constprop.26
+                0x000000000008575b                Node_v6lpDataEvent.part.0.1781
+                0x0000000000085765                vTSV_DefragTimerFired
+                0x000000000008577c                Node_vSysCtrlEvent
+                0x00000000000858ba                eJnc_StartScanVect
+                0x00000000000859f3                vInitCoordRtrStateVect
+                0x0000000000085bab                vInitEndDeviceStateVect
+                0x0000000000085cc7                vFailedPacket.11813
+                0x0000000000085d03                vNed_ScanOrAssociateVect
+ .text          0x0000000000085e1c      0xca4 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans6.ltrans.o
+                0x0000000000085e1c                MibNodeControl_eSetReset
+                0x0000000000085f09                iIPv6_GetIPv6packetBuffer
+                0x0000000000085f7a                i6LP_DefGetDataBuffer
+                0x0000000000085fb3                pvGetBuffer
+                0x0000000000085fea                psDLISTsearchForward
+                0x0000000000086012                vPDM_AddFileSystemElementToListInAscendingWearCountOrder
+                0x0000000000086061                vPDM_MoveFileRecordFromListToList
+                0x0000000000086083                vPDM_MoveRecordToDeAllocList.constprop.108
+                0x00000000000860a8                iPDM_SearchForBufferIdInList
+                0x00000000000860e7                vPDM_CountInstanceOccurances.isra.0.5568
+                0x000000000008614c                iPDM_SearchForBufferIdInFileSystem
+                0x000000000008615f                iPDM_GetLengthOfDataInBufferWithIdFromFileSystem
+                0x00000000000861b2                iPDM_SearchForSpecificSegmentInList
+                0x00000000000861ee                iIPv6_SearchForBufferByAddress
+                0x0000000000086250                iIPv6_SearchForBufferReadyToTX
+                0x000000000008629f                iSearchForId
+                0x00000000000862db                i6LP_DefBind.constprop.96
+                0x0000000000086345                iCheckSocketParameters.16176
+                0x000000000008637a                i6LP_SocketRemoveGroupAddr
+                0x0000000000086436                i6LP_SocketListGroupAddr
+                0x00000000000864a4                vGetGroupTable.8420
+                0x0000000000086584                iPDM_ReadUserDataFromFileSystemRecord
+                0x00000000000865b6                iPDM_ReadUserDataFromSegmentWithId
+                0x00000000000865ed                iPDM_ReadDataWithIdFromFileSystem
+                0x0000000000086678                PDM_eLoadRecord.constprop.119
+                0x00000000000868b6                iPDM_WriteUserDataIntoSegment
+                0x00000000000868fe                iPDM_WriteSegmentHeaderAndData
+ .text          0x0000000000086ac0      0xabf C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans7.ltrans.o
+                0x0000000000086ac0                MibNwkSecurity_bBeaconNotifyCallback
+                0x0000000000086b26                MibNodeControl_eSetFactoryReset
+                0x0000000000086b4d                v6LP_PeripheralEvent
+                0x0000000000086ba9                iIPv6_WriteIPv6headerIntoStructure
+                0x0000000000086e06                Node_vInit
+                0x0000000000086f8d                i6LP_DefGetOwnDeviceAddress
+                0x0000000000086fce                eCreateSocket.6721
+                0x0000000000087043                iICMP_SendICMPerrorMessage
+                0x0000000000087236                vHWTimerInitVect
+                0x00000000000872c7                bAHI_FullFlashProgram
+                0x000000000008739d                vException.2067
+                0x00000000000874ba                psGetTxFrameBuffer
+                0x0000000000087504                bAHI_FlashEraseSector
+ *fill*         0x000000000008757f        0x1 00
+ .text          0x0000000000087580      0xd98 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans8.ltrans.o
+                0x0000000000087580                eBeaconReqSent.21224
+                0x00000000000875a7                vJnc_BackOffVect
+                0x0000000000087629                vNcr_ScanOrAssociateVect
+                0x000000000008772d                vMiniMac_MlmeCallback
+                0x0000000000088278                vProcessNetworkAnnounce.11088
+ .text          0x0000000000088318      0xbdf C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans9.ltrans.o
+                0x0000000000088318                MibNwkSecurity_eSetRejoin
+                0x0000000000088339                vGetImageTable.8660
+                0x0000000000088419                MibAdcStatus_u8Analogue
+                0x00000000000885dc                u8PDM_CalculateFileSystemCapacity
+                0x00000000000885f7                vPDM_MoveAllDataFromListToList
+                0x0000000000088631                vPDM_MoveAllDataWithBufferIdFromListToList
+                0x00000000000886ef                PDM_vDeleteRecord
+                0x00000000000887b6                vPDM_MoveAllDataWithBufferIdAndStateFromListToList
+                0x0000000000088925                iPDM_VerifyDataSequenceWithBufferId
+                0x00000000000889cb                vPDM_MoveAllDataToDeAllocList.constprop.109
+                0x00000000000889f6                iPDM_DeleteAppendedSequence
+                0x0000000000088afc                PDM_eFullSegmentSave.3481
+                0x0000000000088cce                iPDM_FilterDuplicateAppendedSegmentsOnList.6649
+                0x0000000000088d05                iPDM_ReplaceSegmentFromJunkLists.5674
+                0x0000000000088da9                i6LP_DefSocket.constprop.95
+                0x0000000000088e03                MibNwkSecurity_vSetUserData
+                0x0000000000088e9f                iPDM_SegmentCopyAndAppendData.constprop.107
+ .text          0x0000000000088ef7      0xd74 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans10.ltrans.o
+                0x0000000000088ef7                eTransmitFrameVect
+                0x000000000008903a                eApi_PollForData
+                0x000000000008912d                eStartAutoPollVect
+                0x0000000000089177                vPAR_SendDeleteRoute
+                0x00000000000891c6                ePAR_RoutePacketVect
+                0x00000000000892af                vSendBlockRequestGeneric.13175
+                0x000000000008934c                vPAR_ProcessPurgeRoute
+                0x00000000000893af                vProcessResponseRequest.11285
+                0x0000000000089407                vPAR_ProcessDataToCoord
+                0x0000000000089454                v6LP_RouteHwEvent
+                0x0000000000089a9d                vHWTimerCallback.12379
+                0x0000000000089b1f                vPAR_DeleteRoute
+ .text          0x0000000000089c6b      0xcec C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans11.ltrans.o
+                0x0000000000089c6b                eAddGroup.8447
+                0x0000000000089d89                vHandleDataEvent.constprop.25
+                0x0000000000089dca                iTX_SendPacketTransmissionCompleteEvent
+                0x0000000000089e33                iIPv6_TransmitIPv6packet
+                0x0000000000089f44                i6LP_DefSendTo.constprop.23
+                0x000000000008a0b3                eJIP_SendStatusVect
+                0x000000000008a109                eJIP_SendVarVect
+                0x000000000008a2b6                vJIP_HandleTrapRequestVect
+                0x000000000008a439                vJIP_HandleGetRequestVect
+                0x000000000008a514                vJIP_HandleUntrapRequestVect
+                0x000000000008a5de                vJIP_HandleQueryMibRequestVect
+                0x000000000008a6d6                vJIP_HandleQueryVarRequestVect
+                0x000000000008a810                iPING_SendEchoReplyMessage
+                0x000000000008a83a                vHandleTxEvent
+                0x000000000008a8e7                vRouteViaHigherLayer.15775
+                0x000000000008a926                vPDM_DeleteUsedSegmentsOnDeallocList
+ .text          0x000000000008a957      0xba2 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans12.ltrans.o
+                0x000000000008adb9                iRX_receiveData
+                0x000000000008b0b2                bMiniMac_CCMstar2006
+                0x000000000008b2b7                Node_bTestFactoryResetEeprom
+                0x000000000008b4cf                bGenerateMLDv2.16953
+ .text          0x000000000008b4f9      0xb20 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans13.ltrans.o
+                0x000000000008b5fe                vSendTrapNotify.7290
+                0x000000000008b6cd                Node_eJipInit
+ .text          0x000000000008c019      0xbf0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans14.ltrans.o
+                0x000000000008c019                vAssocReqTimeout2.20475
+                0x000000000008c03c                vAssocReqTimeout1.20473
+                0x000000000008c0d5                iTX_TransmitDataOriginal
+                0x000000000008c2b3                vMiniMac_Init
+                0x000000000008c5b3                bJnc_ResetStackVect
+                0x000000000008c6cc                vJnc_HandleDisassociateCfmVect
+                0x000000000008c814                bJnc_StartAssociateVect
+                0x000000000008c920                vApi_Resume
+                0x000000000008ca43                vJnc_InitSystemVect.constprop.68
+                0x000000000008cb55                vSendBlockRequest.13179
+ *fill*         0x000000000008cc09        0x3 00
+ .text          0x000000000008cc0c      0x68c C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans15.ltrans.o
+                0x000000000008cc0c                vRegularTick.13322
+                0x000000000008ccb5                vEnterState.13226
+                0x000000000008d25c                vGetMutexThenGoToState.13229
+                0x000000000008d26d                vTickAwaitingMutex.13311
+                0x000000000008d28d                vTickForFlashComplete.13302
+ .text          0x000000000008d298      0xc6e C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans16.ltrans.o
+                0x000000000008d298                eRemoveGroup.8462
+                0x000000000008d2fb                eAssocRespSent.20487
+                0x000000000008d3af                iPDM_ReconstructReplacedDataTable
+                0x000000000008d539                iPDM_ReplaceChangedSegmentInSequence
+                0x000000000008d5fc                PDM_vSaveRecord
+                0x000000000008d86a                PDM_eSaveImageBitmap.constprop.61
+                0x000000000008dac3                vEraseImageBitmap.13163
+                0x000000000008daef                vJnc_SendEstablishRouteVect.constprop.31
+                0x000000000008dc43                vEstablishRoute_Backoff
+                0x000000000008dc62                vNwk_RouteEstablishedVect
+                0x000000000008dd97                vApi_Start_CRVect
+ .text          0x000000000008df06      0xcf0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans17.ltrans.o
+                0x000000000008df06                bDefaultSafeToSleep.9318
+                0x000000000008df0b                eSetUint32
+                0x000000000008df13                eSetUint16
+                0x000000000008df1b                bFindQueuedTrap.7293
+                0x000000000008df35                boSearchForWearCountSubstitute.5989
+                0x000000000008df4a                boSegmentNumberDeleteSearchMatch.5670
+                0x000000000008df5b                boIdValueSearchMatch.5023
+                0x000000000008dfa7                boSearchForWearCountInsertPoint.5019
+                0x000000000008dfbe                MibNwkSecurity_bNwkCallback
+                0x000000000008dff6                eSetString.8190
+                0x000000000008e02a                rand
+                0x000000000008e06a                vApi_Sleep
+                0x000000000008e0c0                bJnc_IsStackRunning
+                0x000000000008e0ef                bUniqueEntry.7801
+                0x000000000008e178                u32Jnc_GetUnscannedChannelsVect
+                0x000000000008e1de                vJnc_ClearScanListVect
+                0x000000000008e22b                vHandleQueryVarResponse
+                0x000000000008e2ad                vHandleQueryMibResponse
+                0x000000000008e334                vJIP_HandleGetResponseVect
+                0x000000000008e4e4                eJIP_PacketAddData
+                0x000000000008e5f2                vGetDepth.7780
+                0x000000000008e60f                vGetString
+                0x000000000008e62a                vGetUint32
+                0x000000000008e630                vGetUint16
+                0x000000000008e636                vGetUint8
+                0x000000000008e63c                vGetDeviceTypes.8895
+                0x000000000008e649                vGetBlob.8416
+                0x000000000008e65c                vGetMacAddress.8175
+                0x000000000008e67e                vGetTxPower.8171
+                0x000000000008e68a                vGetLastChange.7784
+                0x000000000008e697                MibNwkSecurity_vGetKey
+                0x000000000008e69e                iJIP_FindVarVect
+                0x000000000008e6bd                psJIP_FindMibIdVect
+                0x000000000008e6da                psJIP_FindMibVect
+                0x000000000008e711                vPDM_WriteFileSystemRecordAndSegmentDataIntoEEPROMsegment
+                0x000000000008e7aa                vPDM_WriteByteIntoEEPROM
+                0x000000000008e7d5                boDLISTisEmpty
+                0x000000000008e7ed                bTrapSafeToSleep.7300
+                0x000000000008e80e                vDLISTaddToTail
+                0x000000000008e83c                psDLISTremoveFromHead
+                0x000000000008e865                psDLISTremove
+                0x000000000008e8bd                u8PDM_CalculateSegmentsRequired.part.0.4099
+                0x000000000008e8f0                u8PDM_CalculateSegmentsRequired
+                0x000000000008e8f8                vPDM_WriteEEPROMfixSegmentData
+                0x000000000008e936                bPDM_InitialiseEEPROM
+                0x000000000008e981                vPDM_ReadUserDataFromEEPROMsegment
+                0x000000000008ea26                iPDM_ReadSegmentHeaderFromEEPROM
+                0x000000000008ea86                iPDM_SetVerifyBytesInFileSystemRecord
+                0x000000000008eae7                bAHI_WriteEEPROM
+                0x000000000008eb45                bPDM_IsDescriptorValid
+                0x000000000008eb8f                Node_v6lpResume
+                0x000000000008eba3                Node_vDebugOutdent.part.4.1788
+                0x000000000008ebc0                Node_vDebugIndent.part.3.1786
+ *fill*         0x000000000008ebf6        0x2 00
+ .text          0x000000000008ebf8      0xb24 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans18.ltrans.o
+                0x000000000008ebf8                vPAR_ProcessPacket
+ .text          0x000000000008f71c      0xaa8 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans19.ltrans.o
+                0x000000000008f71c                vMiniMac_McpsCallback
+ .text          0x00000000000901c4      0xb94 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans20.ltrans.o
+                0x00000000000901c4                vMiniMac_NextTransaction
+                0x000000000009022e                vPollTimeout.20781
+                0x000000000009023b                eTransmit
+                0x000000000009031a                eNwk_TransmitPacketVect
+                0x000000000009072f                ePAR_SendFindNode
+                0x0000000000090776                vPAR_SendPurgeRoute
+                0x00000000000907d0                vPAR_ProcessDataToNwk
+                0x000000000009081c                vPAR_ProcessSetDepth
+                0x0000000000090869                bGenerateJenNetGcastInfo.16963
+                0x00000000000908c5                vNwk_RejectNodeVect
+                0x0000000000090917                vPAR_Ping
+                0x0000000000090957                vStartCoordVect
+                0x0000000000090a90                vPostDcfm.21239
+                0x0000000000090af9                vScanNextChannel.21245
+                0x0000000000090c87                vPostTxActions.21815
+                0x0000000000090cc4                vMiniMac_TxComplete
+ .text          0x0000000000090d58      0x540 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans21.ltrans.o
+                0x0000000000090d58                vBlockSeenGeneric.13264
+                0x0000000000090f0f                vJIP_StackEvent
+ .text          0x0000000000091298      0x516 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans22.ltrans.o
+                0x0000000000091298                iPacketRxComplete
+                0x00000000000915dc                eMcpsTxCompleteHandler.20598
+                0x000000000009160a                bServiceRequestQueue.13224
+                0x00000000000916b6                vAHI_Sleep
+ .text          0x00000000000917ae      0x9a9 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans23.ltrans.o
+                0x00000000000917ae                iIPv6_GetDataExtensionHeaderSize
+                0x0000000000091812                iIPv6_GetIPv6headerSize
+                0x00000000000918da                vGroupcastTimerFiredQueue
+                0x00000000000918e4                vTSV_DefragTimerFiredQueue
+                0x00000000000918ee                vSendTrapNotifyViaQueue.7297
+                0x00000000000918f8                iIPv6_WriteDataExtensionHeaderIntoStructure
+                0x0000000000091a41                iIPv6_GetUncompressedHeaderSize
+                0x0000000000091a98                iIPv6_GetUncompressedIPv6packetSize
+                0x0000000000091b69                iTX_FragmentPayload
+                0x0000000000091cc0                iTX_TransmitPayloadFragment
+                0x0000000000091d48                iIPv6_SwapSourceAndDestinationAddresses
+                0x0000000000091d79                iIPv6_InitialiseIPv6bufferStatus
+                0x0000000000091db8                iIPv6_CalculateDataChecksum
+                0x0000000000091e76                iBM_InitialiseFragmentBitmap
+                0x0000000000091ede                iBM_IsBitmapComplete
+                0x0000000000091f03                iBM_SetFragmentBitmap.part.1.17771
+                0x0000000000091fd9                v6LP_ProcessStackEvent
+                0x0000000000092099                vGroupcastFrameCommandHandler.16933
+                0x00000000000920d1                u8DecompressAddrs.16978
+ *fill*         0x0000000000092157        0x1 00
+ .text          0x0000000000092158      0x8d0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans24.ltrans.o
+                0x0000000000092158                vBlockSeenBcast.13284
+                0x0000000000092166                vBlockSeenUnicast.13279
+                0x0000000000092174                vBlockSeenDirect.13269
+                0x000000000009217f                vBlockSeenIp.13274
+                0x00000000000921ab                TSV_eStart
+                0x00000000000921fb                vStartTrapTimer
+                0x0000000000092593                vHandleDataEvent.6713
+                0x000000000009273f                vJIP_SetEnabled
+                0x000000000009276c                vJIP_NotifyChanged
+                0x000000000009278f                vNetworkModule_Update
+                0x00000000000928e7                vGetNetworkInfo.7846
+                0x0000000000092903                vGroupcastTimerFired
+                0x00000000000929cc                TSV_eOpen
+                0x00000000000929d4                OS_eExitCriticalSection_stub
+                0x00000000000929e8                OS_eEnterCriticalSection_stub
+                0x00000000000929ff                vException_Trap
+                0x0000000000092a07                vException_StackOverflow
+                0x0000000000092a0f                vException_IllegalInstruction
+                0x0000000000092a17                vException_UnalignedAccess
+                0x0000000000092a1f                vException_BusError
+ .text          0x0000000000092a28      0x6bd C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans25.ltrans.o
+                0x0000000000092a28                MibNode_vNameCallback.2170
+                0x0000000000092a41                MibNwkSecurity_eSetKey
+                0x0000000000092a67                iPDM_ReconstructValidImageBitmap
+                0x0000000000092bda                vJnc_JenNetInitVariablesVect
+                0x0000000000093075                PDM_vSave
+                0x00000000000930b8                Node_vReset
+ .text          0x00000000000930e5      0x666 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans26.ltrans.o
+                0x00000000000930fc                eDisassocReqSent.20477
+                0x000000000009313b                ePollReqSent.20783
+                0x0000000000093294                vSendMlmeCommStatusFromTxFrame
+                0x00000000000932ea                eSecurityTxEncrypt
+                0x000000000009339a                vStartTransmit.21822
+                0x0000000000093488                vSendMlmeCommStatusFromRxFrame
+                0x00000000000934de                bSecurityRxProcess
+                0x000000000009361e                vPostFailedAssocDcfm.20481
+                0x000000000009363c                eAssocReqSent.20499
+                0x0000000000093685                ePMICassocReqPollSent.20503
+                0x00000000000936d8                vMiniMacPoll_CheckPollResponse
+                0x0000000000093700                vScanBeaconReceived
+ .text          0x000000000009374b      0x876 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans27.ltrans.o
+                0x00000000000938ce                vDetermineBenignState.13300
+                0x00000000000939b5                eOND_JenNetLayerInit.part.6.13316.constprop.55
+                0x0000000000093e27                vStoreParams.13253
+                0x0000000000093e62                bProcessApiRequest.13292
+                0x0000000000093f09                vHandleApi.13295
+                0x0000000000093f0d                vErase.13242
+                0x0000000000093f7b                vCheckBlockRequestTimeout.13235
+                0x0000000000093fbf                vTimeoutFired.13237
+ .text          0x0000000000093fc1      0x3b3 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans28.ltrans.o
+                0x0000000000093fc1                Device_vMain
+ *fill*         0x0000000000094374        0x0 00
+ .text          0x0000000000094374      0x5dc C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans29.ltrans.o
+                0x0000000000094632                vMiniMac_InterruptHandler
+ .text          0x0000000000094950      0x438 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans30.ltrans.o
+                0x00000000000949ea                vFrameCommandHandler.13131
+                0x0000000000094b98                eServiceBlockRequest.13170
+                0x0000000000094d66                vBlockReqSeen.13217
+ .text          0x0000000000094d88      0x17a C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans31.ltrans.o
+                0x0000000000094e1b                TSV_eStop
+                0x0000000000094e2f                iIPv6_CreateIPv6BufferManager
+                0x0000000000094ecf                AppColdStart
+                0x0000000000094ef4                AppWarmStart
+ .text          0x0000000000094f02       0x25 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                0x0000000000094f02                memcmp
+ .text          0x0000000000094f27       0x19 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .text          0x0000000000094f40       0x44 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memmove.o)
+                0x0000000000094f40                memmove
+ .text          0x0000000000094f84       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                0x0000000000094f84                memset
+ .text          0x0000000000094f96       0x15 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+                0x0000000000094f96                strcpy
+ .text          0x0000000000094fab       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                0x0000000000094fab                strlen
+ .text          0x0000000000094fbd       0x2b c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+                0x0000000000094fbd                strncpy
+ *fill*         0x0000000000094fe8        0x0 00
+ .text          0x0000000000094fe8      0x204 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                0x0000000000094fe8                __udivsi3
+ .text          0x00000000000951ec       0x30 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+                0x00000000000951ec                __divsi3
+ .text          0x000000000009521c      0x1b0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                0x000000000009521c                __umodsi3
+ .text          0x00000000000953cc       0x24 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+                0x00000000000953cc                __modsi3
+ .text          0x00000000000953f0       0x52 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+                0x00000000000953f0                __muldi3
+ .text          0x0000000000095442       0x27 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_ashldi3.o)
+                0x0000000000095442                __ashldi3
+ .text          0x0000000000095469      0x34c c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                0x0000000000095469                __udivdi3
+ .text          0x00000000000957b5       0x27 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+                0x00000000000957b5                vAHI_InterruptSetPriority
+                0x00000000000957d3                vAHI_InterruptSetActivePriorityLevel
+ .text.vMicroSyscall
+                0x00000000000957dc       0x17 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall.o)
+                0x00000000000957dc                vMicroSyscall
+                0x00000000000957f3                _flash_end = ABSOLUTE (.)
+
+.rela.dyn       0x00000000000957f4        0x0
+ .rela.text     0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o
+ .rela.data     0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o
+ .rela.rodata   0x0000000000000000        0x0 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o
+                0x000000000400004c                . = ORIGIN (ram)
+
+.data           0x000000000400004c      0x3ac load address 0x00000000000957f4
+                0x000000000400004c                _ram_data_start = ABSOLUTE (.)
+ *(.data*)
+ .data          0x000000000400004c        0xc C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans1.ltrans.o
+                0x000000000400004c                iJMP_Socket.14090
+                0x0000000004000050                prSafeToSleepCallback.10028
+ .data.initinboot
+                0x0000000004000058        0xc C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans1.ltrans.o
+                0x0000000004000058                u8_6LP_TimerQSize
+                0x0000000004000059                u8_6LP_GCastTimeout
+                0x000000000400005a                u8_6LP_GCastAddrStoreEntries
+                0x000000000400005b                u8_6LP_QSize
+ .data          0x0000000004000064        0x1 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans2.ltrans.o
+                0x0000000004000064                u8PdmStartSector.1966
+ *fill*         0x0000000004000065        0x3 00
+ .data          0x0000000004000068       0xa4 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans3.ltrans.o
+                0x0000000004000068                u32HeapStart
+                0x000000000400006c                asNwkProfiles
+ .data.initinboot
+                0x000000000400010c        0x1 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans3.ltrans.o
+ *fill*         0x000000000400010d        0x3 00
+ .data          0x0000000004000110        0x4 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans7.ltrans.o
+                0x0000000004000110                prHeap_AllocFunc
+ .data          0x0000000004000114        0x1 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans12.ltrans.o
+                0x0000000004000114                u8RstSector.1969
+ *fill*         0x0000000004000115        0x3 00
+ .data          0x0000000004000118      0x1d4 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans13.ltrans.o
+                0x0000000004000118                bCoordSupportsAuthoriseUnicast
+                0x000000000400011c                sJenNetMib
+                0x00000000040001ac                sDeviceIDMib
+ .data.initinboot
+                0x00000000040002ec        0x2 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans13.ltrans.o
+                0x00000000040002ec                u8SocketMaxGroupAddrs
+                0x00000000040002ed                gMAC_u8MaxBuffers
+ *fill*         0x00000000040002ee        0x2 00
+ .data          0x00000000040002f0        0x8 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans14.ltrans.o
+                0x00000000040002f0                u64RandomSeed.10123
+ .data          0x00000000040002f8        0x4 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans16.ltrans.o
+                0x00000000040002f8                iJipSocket
+ .data          0x00000000040002fc       0x30 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans21.ltrans.o
+                0x00000000040002fc                sNodeControlMib
+ .data          0x000000000400032c        0x1 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans24.ltrans.o
+ .data.initinboot
+                0x000000000400032d        0x1 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans24.ltrans.o
+ *fill*         0x000000000400032e        0x2 00
+ .data          0x0000000004000330       0xc8 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans28.ltrans.o
+                0x0000000004000330                u64WakeTimer1Period.1957
+                0x0000000004000338                sNwkStatusMib
+                0x0000000004000388                sNwkSecurityMib
+ *(.data.*)
+                0x00000000040003f8                . = ALIGN (0x4)
+                0x00000000040003f8                _ram_data_end = ABSOLUTE (.)
+
+.bss            0x00000000040003f8      0x98c load address 0x0000000000095ba0
+                0x00000000040003f8                _bss_start = ABSOLUTE (.)
+ *(.bss*)
+ .bss           0x00000000040003f8       0x10 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o
+                0x00000000040003f8                psMibListHead.7094
+ .bss           0x0000000004000408       0x7c C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans1.ltrans.o
+                0x0000000004000408                eOldJenNetCommandHandler.17037
+                0x000000000400040c                sTimer.17036
+                0x000000000400041c                au8ExtDataBlock.14519
+                0x0000000004000436                u16JMP_Port
+                0x0000000004000438                u8StoredAddrs.17145
+                0x000000000400043a                u16JIP_Port
+                0x000000000400043c                u32SocketRemovedGroupAddrs.16348
+                0x0000000004000440                u32SocketAddedGroupAddrs.16347
+                0x0000000004000444                u32SocketRemovedGroupAckPending.16249
+                0x0000000004000448                u32SocketAddedGroupAckPending.16250
+                0x000000000400044c                u32GroupcastNotifyTimer.16349
+                0x0000000004000450                sFastCommission.10894
+                0x0000000004000454                psNwkProfile
+                0x0000000004000458                sThisDeviceMacAddr
+                0x0000000004000460                sStoredMacData.20289
+                0x0000000004000464                pvAboutToSleep
+                0x0000000004000468                psJenNetConfigData
+                0x000000000400046c                sReset.9897
+                0x0000000004000470                u8SpeculativeBroadcastsThisSecond.14865
+                0x0000000004000474                u32OneSecondClockAtLastTick.17479
+                0x0000000004000478                u32ClockAtLastTick.17478
+ .bss.initinboot
+                0x0000000004000484       0x18 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans1.ltrans.o
+                0x0000000004000484                psAddrStore.17146
+                0x0000000004000488                s6LP_Queue.17465
+                0x0000000004000490                s6LP_TimerQueue.17456
+ .bss           0x000000000400049c       0xdc C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans2.ltrans.o
+                0x000000000400049c                u32PdmSectorSize.1967
+                0x00000000040004a0                u8PdmNumSectors.1968
+ .bss           0x0000000004000578        0x2 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans3.ltrans.o
+                0x0000000004000578                bContinuousModeFlag.23046
+ .bss.initinboot
+                0x000000000400057a        0x1 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans3.ltrans.o
+ *fill*         0x000000000400057b        0x1 00
+ .bss.dontinitinboot
+                0x000000000400057c        0x4 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans3.ltrans.o
+ .bss           0x0000000004000580        0xc C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans4.ltrans.o
+ .bss.initinboot
+                0x000000000400058c        0x1 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans4.ltrans.o
+ *fill*         0x000000000400058d        0x3 00
+ .bss           0x0000000004000590       0x10 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans5.ltrans.o
+                0x0000000004000590                u32AppTimer100msResume.1974
+                0x0000000004000594                bAppTimer100msResume.1972
+                0x0000000004000595                bIntEnableFlag.23045
+ .bss           0x00000000040005a0        0x2 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans6.ltrans.o
+ *fill*         0x00000000040005a2        0x2 00
+ .bss           0x00000000040005a4       0x7c C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans7.ltrans.o
+                0x00000000040005a4                g_tSpiConfiguration
+                0x00000000040005a8                prApAppCallback.23048
+                0x00000000040005ac                prUart0AppCallback.23939
+                0x00000000040005b0                prUart1AppCallback.23940
+                0x00000000040005b4                prSpiAppCallback.23262
+                0x00000000040005b8                prSiAppCallback.23185
+                0x00000000040005bc                prTickTimeAppCallback
+                0x00000000040005c0                prTimer0AppCallback.23682
+                0x00000000040005c4                prTimer1AppCallback.23683
+                0x00000000040005c8                prTimer2AppCallback.23684
+                0x00000000040005cc                prHeap_AllocOrig.2107
+                0x00000000040005d0                bAHI_ExtendedTemperatureOperation
+                0x00000000040005d1                acDebugIndent
+                0x0000000004000614                i32DebugIndent
+ .bss.initinboot
+                0x0000000004000620        0x4 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans7.ltrans.o
+                0x0000000004000620                prSysCtrlAppCallback.23462
+ .bss           0x0000000004000624        0x4 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans8.ltrans.o
+                0x0000000004000624                u32JenNet_UnscannedChannels
+ .bss           0x0000000004000628        0xc C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans9.ltrans.o
+                0x0000000004000628                prNwkCallback.14520
+                0x000000000400062c                bAccumulateModeFlag.23047
+ .bss           0x0000000004000634        0xc C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans10.ltrans.o
+                0x0000000004000634                bSuppressFindNode
+                0x0000000004000638                u32LastNeighbourAge
+ .bss           0x0000000004000640        0x1 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans11.ltrans.o
+                0x0000000004000640                u8MibListCount.7096
+ *fill*         0x0000000004000641        0x3 00
+ .bss           0x0000000004000644      0x128 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans13.ltrans.o
+                0x0000000004000644                sTrapTimer.7549
+                0x0000000004000654                prOldCallback.7551
+                0x0000000004000658                freeList.7550
+                0x0000000004000660                outList.7548
+                0x0000000004000668                u8MaxTraps.7559
+                0x000000000400066c                psTraps.7560
+                0x0000000004000670                u8MaxUniqueAddresses.7552
+                0x0000000004000674                psJipTrapUniqueAddresses.7553
+                0x0000000004000678                sJIP_NetworkData.7959
+                0x0000000004000690                sJIP_ONDData.8723
+                0x000000000400069c                sJIP_DeviceData.8917
+                0x00000000040006a4                pvRxStore.14089
+                0x00000000040006a8                pvTxStore.14088
+                0x00000000040006ac                sJIP_NodeData.8234
+                0x00000000040006b4                psMibNode.2194
+ .bss.initinboot
+                0x000000000400076c        0x8 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans13.ltrans.o
+                0x000000000400076c                psSocketGroupAddrs
+                0x0000000004000770                bMAC_ImmortalIndirect
+ .bss           0x0000000004000774       0x14 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans14.ltrans.o
+                0x0000000004000774                au16TimerSettings.23646
+                0x0000000004000780                sMiniMacPhyPib
+ .bss           0x0000000004000788        0x4 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans16.ltrans.o
+                0x0000000004000788                psJNT_LowEnergyDeviceDatabase
+ .bss           0x000000000400078c        0x3 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans17.ltrans.o
+ .bss           0x000000000400078f        0x2 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans18.ltrans.o
+                0x000000000400078f                bRouteImportInvalidated
+                0x0000000004000790                bEndDeviceCommissioningWindow
+ *fill*         0x0000000004000791        0x3 00
+ .bss           0x0000000004000794      0x1ec C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans19.ltrans.o
+                0x0000000004000794                sDefBcPkt
+                0x0000000004000808                asDeviceDescriptor
+                0x0000000004000940                asIndirectHandleList.10883
+ .bss           0x0000000004000980       0xac C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans21.ltrans.o
+                0x0000000004000980                sMibNodeControl
+                0x0000000004000990                sOndData.13419
+ .bss.initinboot
+                0x0000000004000a2c       0x10 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans21.ltrans.o
+                0x0000000004000a2c                eOndRunMode.13553
+                0x0000000004000a2d                bOndHaveMutex.13554
+                0x0000000004000a30                pau8OndImageBitmaps.13421
+                0x0000000004000a34                u8OndMaxImages.13424
+                0x0000000004000a38                psOndImageDatabase.13423
+ .bss.initinboot
+                0x0000000004000a3c        0x1 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans22.ltrans.o
+ *fill*         0x0000000004000a3d        0x3 00
+ .bss           0x0000000004000a40       0x30 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans24.ltrans.o
+                0x0000000004000a40                psTimerServerList
+                0x0000000004000a44                psChildren
+ .bss           0x0000000004000a70       0x10 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans25.ltrans.o
+                0x0000000004000a70                sMiniMacSecurityPib
+                0x0000000004000a7c                psJHandleStore.9972
+ .bss           0x0000000004000a80        0x8 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans27.ltrans.o
+                0x0000000004000a80                psPDM_Common
+                0x0000000004000a84                prJenNetTickCallback
+ .bss           0x0000000004000a88      0x240 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans28.ltrans.o
+                0x0000000004000a88                asKeyDescriptor
+                0x0000000004000ac4                u32AppTimer100ms.1973
+                0x0000000004000ac8                u32ExceptionHeapMax
+                0x0000000004000acc                u32ExceptionStackMin
+                0x0000000004000ad0                psMibNodeControl.2383
+                0x0000000004000ad4                sMiniMacPib
+                0x0000000004000b6c                sMibNwkStatus
+                0x0000000004000bb0                sMibNode
+                0x0000000004000bd8                sMibNwkSecurity
+                0x0000000004000cb0                u32TimerSeconds.1959
+                0x0000000004000cb4                psMibAdcStatus.2302
+                0x0000000004000cb8                bUp.1971
+                0x0000000004000cbc                psMibNwkStatus.2632
+                0x0000000004000cc0                bTickTimerFired.1964
+                0x0000000004000cc1                bSecondTimerFired.1970
+                0x0000000004000cc2                bAppTimer100msFired.1975
+                0x0000000004000cc3                bSleep.1443
+ .bss           0x0000000004000cc8       0x64 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans29.ltrans.o
+                0x0000000004000cc8                aprTimerCallback
+                0x0000000004000ce4                au32TimerCounter
+                0x0000000004000d00                sMiniMacInternal
+ .bss           0x0000000004000d2c       0x10 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans31.ltrans.o
+                0x0000000004000d2c                psTreeCommonNotSaved
+                0x0000000004000d30                psTreeCommonSaved
+                0x0000000004000d34                u32StackState.1963
+ .bss.initinboot
+                0x0000000004000d3c        0x8 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans31.ltrans.o
+                0x0000000004000d3c                ps6LP_Common
+ .bss.dontinitinboot
+                0x0000000004000d44       0x40 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                0x0000000004000d44                isr_handlers
+ *(.bss.*)
+ *(.scommon*)
+ *(.scommon.*)
+ *(COMMON)
+                0x0000000004000d84                . = ALIGN (0x4)
+                0x0000000004000d84                _bss_end = ABSOLUTE (.)
+
+.heap           0x0000000004000d84     0x3340 load address 0x000000000009652c
+                0x0000000004000d84                _heap_start = ABSOLUTE (.)
+                0x00000000040040c4                . = (. + _minimum_heap_size)
+ *fill*         0x0000000004000d84     0x3340 00
+
+.stack          0x0000000004007800      0x800 load address 0x000000000009cfa8
+                0x0000000004007800                _heap_end = ABSOLUTE (.)
+                0x0000000004007800                _stack_low_water_mark = ABSOLUTE (.)
+                0x0000000004008000                . = (. + _stack_size)
+ *fill*         0x0000000004007800      0x800 00
+
+.test           0x0000000000095ba0        0x1
+                0x0000000000095ba0        0x1 BYTE 0xff
+                0x00000000000957f4                _flash_data_start = LOADADDR (.data)
+                0x00000000000003ac                _ram_data_len = (((_ram_data_end - _ram_data_start) + 0x3) & 0xfffffffffffffffc)
+                0x000000000000098c                _bss_len = (((_bss_end - _bss_start) + 0x3) & 0xfffffffffffffffc)
+                0x0000000000015ba0                _image_len = ((((_flash_end - _flash_start) + _ram_data_len) + 0x3) & 0xfffffffffffffffc)
+                0x0000000004008000                _ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
+                0x0000000004008000                ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
+                0x0000000001001580                _app_ram_start = 0x1001580
+                0x0000000004000068                PROVIDE (_heap_location, u32HeapStart)
+                0x0000000004000068                PROVIDE (heap_location, u32HeapStart)
+                0x00000000000929cc                TSV_eOpenVector = TSV_eOpen
+                0x00000000000921ab                TSV_eStartVector = TSV_eStart
+                0x0000000000094e1b                TSV_eStopVector = TSV_eStop
+                0x00000000000929e8                PROVIDE (OS_eEnterCriticalSection, OS_eEnterCriticalSection_stub)
+                0x00000000000929d4                PROVIDE (OS_eExitCriticalSection, OS_eExitCriticalSection_stub)
+OUTPUT(c:/NXP/bstudio_nxp/workspace2/JN-AN-1190-JenNet-IP-Application-Template/Binary/0x11111111s_DeviceTemplate_DR1174_EndDevice_JN5168.elf elf32-ba)
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans12.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans13.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans14.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans15.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans16.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans17.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans18.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans19.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans20.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans21.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans22.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans23.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans24.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans25.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans26.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans27.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans28.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans29.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans30.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\LENOVO~1\AppData\Local\Temp\ccUr46X6.ltrans31.ltrans.o
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memmove.o)
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_ashldi3.o)
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .comment       0x0000000000000000       0x11 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall.o)
+                                         0x12 (size before relaxing)
+
+.debug_info     0x0000000000000000     0x147f
+ .debug_info    0x0000000000000000       0xf3 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_info    0x00000000000000f3      0x106 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_info    0x00000000000001f9      0x106 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memmove.o)
+ .debug_info    0x00000000000002ff       0xd7 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_info    0x00000000000003d6       0xce c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .debug_info    0x00000000000004a4       0xc8 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_info    0x000000000000056c       0xf9 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .debug_info    0x0000000000000665       0xe2 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_info    0x0000000000000747       0xe2 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_info    0x0000000000000829       0xe2 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_info    0x000000000000090b       0xe2 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_info    0x00000000000009ed      0x1f9 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_info    0x0000000000000be6      0x193 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_ashldi3.o)
+ .debug_info    0x0000000000000d79      0x64c c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_info    0x00000000000013c5       0xba c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+
+.debug_abbrev   0x0000000000000000      0x776
+ .debug_abbrev  0x0000000000000000       0x8e c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x000000000000008e       0xa4 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000000132       0x9c c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x00000000000001ce       0x8e c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_abbrev  0x000000000000025c       0x72 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .debug_abbrev  0x00000000000002ce       0x7f c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x000000000000034d       0x8e c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .debug_abbrev  0x00000000000003db       0x14 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_abbrev  0x00000000000003ef       0x14 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_abbrev  0x0000000000000403       0x14 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_abbrev  0x0000000000000417       0x14 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_abbrev  0x000000000000042b       0xe0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_abbrev  0x000000000000050b       0xf1 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_ashldi3.o)
+ .debug_abbrev  0x00000000000005fc      0x166 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x0000000000000762       0x14 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+
+.debug_loc      0x0000000000000000     0x101e
+ .debug_loc     0x0000000000000000       0x73 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_loc     0x0000000000000073       0x39 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_loc     0x00000000000000ac       0xc6 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memmove.o)
+ .debug_loc     0x0000000000000172       0x3f c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_loc     0x00000000000001b1       0x49 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .debug_loc     0x00000000000001fa       0x3f c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_loc     0x0000000000000239       0x93 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .debug_loc     0x00000000000002cc      0x220 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_loc     0x00000000000004ec       0x9f c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_ashldi3.o)
+ .debug_loc     0x000000000000058b      0xa93 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+
+.debug_aranges  0x0000000000000000      0x1e0
+ .debug_aranges
+                0x0000000000000000       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x0000000000000020       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000040       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x0000000000000060       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000080       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_aranges
+                0x0000000000000100       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_aranges
+                0x0000000000000120       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_aranges
+                0x0000000000000140       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_aranges
+                0x0000000000000160       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_aranges
+                0x0000000000000180       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_ashldi3.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+
+.debug_line     0x0000000000000000     0x197b
+ .debug_line    0x0000000000000000      0x1b0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_line    0x00000000000001b0      0x1a4 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_line    0x0000000000000354      0x201 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memmove.o)
+ .debug_line    0x0000000000000555      0x19a c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_line    0x00000000000006ef      0x108 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .debug_line    0x00000000000007f7      0x18a c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_line    0x0000000000000981      0x1bc c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .debug_line    0x0000000000000b3d      0x47b c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_line    0x0000000000000fb8       0xbb c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_line    0x0000000000001073      0x3c7 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_line    0x000000000000143a       0xa3 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_line    0x00000000000014dd       0x93 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_line    0x0000000000001570       0xb1 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_ashldi3.o)
+ .debug_line    0x0000000000001621      0x1bb c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_line    0x00000000000017dc      0x19f c:/NXP/bstudio_nxp/sdk/JN-SW-4165/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+
+.debug_str      0x0000000000000000      0x4c9
+ .debug_str     0x0000000000000000      0x147 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                                        0x180 (size before relaxing)
+ .debug_str     0x0000000000000147       0x5d c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+                                        0x194 (size before relaxing)
+ .debug_str     0x00000000000001a4       0x64 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memmove.o)
+                                        0x19b (size before relaxing)
+ .debug_str     0x0000000000000208       0x49 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                                        0x180 (size before relaxing)
+ .debug_str     0x0000000000000251       0x49 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+                                        0x183 (size before relaxing)
+ .debug_str     0x000000000000029a       0x4f c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                                        0x186 (size before relaxing)
+ .debug_str     0x00000000000002e9       0x5d c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+                                        0x19e (size before relaxing)
+ .debug_str     0x0000000000000346      0x123 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+                                        0x1ce (size before relaxing)
+ .debug_str     0x0000000000000469       0x23 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_ashldi3.o)
+                                        0x1c0 (size before relaxing)
+ .debug_str     0x000000000000048c       0x3d c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                                        0x202 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x12c
+ .debug_frame   0x0000000000000000       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000000020       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000040       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000060       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000080       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .debug_frame   0x00000000000000a0       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_frame   0x00000000000000c0       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .debug_frame   0x00000000000000e0       0x2c c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_frame   0x000000000000010c       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_ashldi3.o)
+
+.debug_ranges   0x0000000000000000       0xa0
+ .debug_ranges  0x0000000000000000       0x30 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_ranges  0x0000000000000030       0x70 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r34135/bin/../lib/gcc/ba-elf/4.7.3/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
