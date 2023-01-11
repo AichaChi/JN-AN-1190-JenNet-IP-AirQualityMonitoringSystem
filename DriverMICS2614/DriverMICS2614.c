@@ -49,27 +49,27 @@ PUBLIC float DriverMICS2614_getro(float resvalue)
 
 PUBLIC float DriverMICS2614_getppb(float resvalue,float ro)
 {
-	  float f = resvalue/(float)ro;
-	  float f2 = f*f;
-	  float f3 = f*f*f;
-	  float f4 = f*f*f*f;
-      float f5 = f*f*f*f;
-	  if ((f<= INT2_O3) && (f>= INT1_O3))
-	  {
-		  float O3ppb= (float)(VAL10_O3*f5+VAL11_O3*f4+VAL12_O3*f3+VAL13_O3*f2+VAL14_O3*f+VAL15_O3);
+	float f = resvalue/(float)ro;
+	float f2 = f*f;
+	float f3 = f*f*f;
+	float f4 = f*f*f*f;
+	float f5 = f*f*f*f;
+	if ((f <= INT2_O3) && (f >= INT1_O3))
+	{
+		float O3ppb = (float)(VAL10_O3*f5+VAL11_O3*f4+VAL12_O3*f3+VAL13_O3*f2+VAL14_O3*f+VAL15_O3);
+		return O3ppb;
+	}
+	else if ((f <= INT3_O3) && (f >= INT2_O3))
+	{
+		float O3ppb = (float)(VAL20_O3*f3+VAL21_O3*f2+VAL22_O3*f+VAL23_O3);
+		return O3ppb;
+	}
+	else if ((f <= INT4_O3) && (f >= INT3_O3))
+	{
+		  float O3ppb = (float)(VAL30_O3*f3+VAL31_O3*f2+VAL32_O3*f+VAL33_O3);
 		  return O3ppb;
-	  }
-	  else if ((f<= INT3_O3) && (f>= INT2_O3))
-	  {
-		  float O3ppb= (float)(VAL20_O3*f3+VAL21_O3*f2+VAL22_O3*f+VAL23_O3);
-		  return O3ppb;
-	  }
-	  else if ((f<= INT4_O3) && (f>= INT3_O3))
-	  {
-		  float O3ppb=(float)(VAL30_O3*f3+VAL31_O3*f2+VAL32_O3*f+VAL33_O3);
-		  return O3ppb;
-	  }
-	  else return 0;
+	}
+	else return 0;
 }
 
 
