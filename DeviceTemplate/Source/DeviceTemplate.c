@@ -118,22 +118,22 @@
 /*** Aicha  ***/
 #if MK_BLD_MIB_CO_STATUS
 extern tsMibCOstatus	 	sMibCOstatus;
-extern thJIP_Mib		 	hMibCOstatus;
+extern thJIP_Mib		hMibCOstatus;
 #endif
 
 #if MK_BLD_MIB_NO2_STATUS
 extern tsMibNO2status	 	sMibNO2status;
-extern thJIP_Mib		 	hMibNO2status;
+extern thJIP_Mib		hMibNO2status;
 #endif
 
 #if MK_BLD_MIB_O3_STATUS
 extern tsMibO3status	 	sMibO3status;
-extern thJIP_Mib		 	hMibO3status;
+extern thJIP_Mib		hMibO3status;
 #endif
 
 #if MK_BLD_MIB_H2S_STATUS
 extern tsMibH2Sstatus	 	sMibH2Sstatus;
-extern thJIP_Mib		 	hMibH2Sstatus;
+extern thJIP_Mib		hMibH2Sstatus;
 #endif
 /*************/
 /****************************************************************************/
@@ -265,34 +265,29 @@ PUBLIC void Device_vInit(bool_t bWarmStart)
 
 		/* Initialise PDM and MIB data */
 		Device_vPdmInit();
-		/***  Aicha  ***/
-	    uint32 u32Buttons;
-	    uint8 u8Calib = 0 ;
+		/*** New code ***/
+	        uint32 u32Buttons;
+	        uint8 u8Calib = 0 ;
 		/* Read the input */
-        #if MK_BLD_PREH_STATUS
+        	#if MK_BLD_PREH_STATUS
 		{
-	    	DBG_vPrintf(TRUE,"\nPREHEATING");
-//	    	vAHI_DioSetDirection(0, MICS4514_OUTPUT_MASK);
-//		    vAHI_DioSetOutput(MICS4514_OUTPUT_MASK,0);         //PREH=1
-//		    vAHI_DioSetDirection(0, MICS2614_OUTPUT_MASK);
-//		    vAHI_DioSetOutput(MICS2614_OUTPUT_MASK,0);         //VO3_EN=1
-		    #if MK_BLD_MIB_H2S_STATUS
+	    		DBG_vPrintf(TRUE,"\nPREHEATING");
+			#if MK_BLD_MIB_H2S_STATUS
 		       {
-			      vAHI_DioSetDirection(0, MQ136_OUTPUT_MASK);
-		          vAHI_DioSetOutput(MQ136_OUTPUT_MASK,0);      //MQ_EN=1
+		        	vAHI_DioSetDirection(0, MQ136_OUTPUT_MASK);
+		       		vAHI_DioSetOutput(MQ136_OUTPUT_MASK,0);      //MQ_EN=1
 		       }
-		     #endif
+		       #endif
 		}
-       #endif
+       		#endif
 		u32Buttons = u32AHI_DioReadInput() & DIO_BUTTON_MASK;
 		/* Button pressed ? */
-	    if ((u32Buttons & DIO_BUTTON_MASK) == 0)
-		  {
-	    	 DBG_vPrintf(TRUE,"\n CALIBRATION");
-		     u8Calib = 1;
-		     Node_vCheckCalib(u8Calib);
-		  }
-	    /***************/
+	        if ((u32Buttons & DIO_BUTTON_MASK) == 0)
+		{
+	    	 	DBG_vPrintf(TRUE,"\n CALIBRATION");
+			u8Calib = 1;
+			Node_vCheckCalib(u8Calib);
+		}
 		/* Apply factory reset if required */
 		if (bFactoryReset) Device_vReset(TRUE);
 
@@ -334,19 +329,19 @@ PUBLIC void Device_vPdmInit(void)
 
 	/* Initialise PDM and Node MIBs*/
 	Node_vPdmInit(DEVICE_ADC_MASK,DEVICE_ADC_PERIOD);
-    /***  Aicha  ***/
+	/***  New code ***/
 	/* Initialise Node MIBs */
-		#if MK_BLD_MIB_CO_STATUS
-		   MibCOstatus_vInit(hMibCOstatus, &sMibCOstatus,DEVICE_ADC_SRC_RED_SENSOR);
-		#endif
+	#if MK_BLD_MIB_CO_STATUS
+        	MibCOstatus_vInit(hMibCOstatus, &sMibCOstatus,DEVICE_ADC_SRC_RED_SENSOR);
+	#endif
         #if MK_BLD_MIB_NO2_STATUS
-           MibNO2status_vInit(hMibNO2status, &sMibNO2status,DEVICE_ADC_SRC_OX_SENSOR);
+        	MibNO2status_vInit(hMibNO2status, &sMibNO2status,DEVICE_ADC_SRC_OX_SENSOR);
         #endif
         #if MK_BLD_MIB_O3_STATUS
-           MibO3status_vInit(hMibO3status, &sMibO3status,DEVICE_ADC_SRC_O3_SENSOR);
+        	MibO3status_vInit(hMibO3status, &sMibO3status,DEVICE_ADC_SRC_O3_SENSOR);
         #endif
         #if MK_BLD_MIB_H2S_STATUS
-           MibH2Sstatus_vInit(hMibH2Sstatus, &sMibH2Sstatus,DEVICE_ADC_SRC_MQ_SENSOR);
+        	MibH2Sstatus_vInit(hMibH2Sstatus, &sMibH2Sstatus,DEVICE_ADC_SRC_MQ_SENSOR);
         #endif
      /*************/
 	/* Debug */
@@ -374,7 +369,7 @@ PUBLIC void Device_vReset(bool_t bFactoryReset)
 	/* FactoryReset ? */
 	if (bFactoryReset)
 	{
-		/***  Aicha  ***/
+		/***  New code  ***/
 		#if MK_BLD_MIB_CO_CONTROL
 			PDM_vDeleteRecord(&sMibCOstatus.sDesc);
 		#endif
@@ -382,13 +377,12 @@ PUBLIC void Device_vReset(bool_t bFactoryReset)
 	        PDM_vDeleteRecord(&sMibO3status.sDesc);
         #endif
         #if MK_BLD_MIB_NO2_CONTROL
-            PDM_vDeleteRecord(&sMibNO2status.sDesc);
+        	PDM_vDeleteRecord(&sMibNO2status.sDesc);
         #endif
         #if MK_BLD_MIB_H2S_CONTROL
-            PDM_vDeleteRecord(&sMibH2Sstatus.sDesc);
+        	PDM_vDeleteRecord(&sMibH2Sstatus.sDesc);
         #endif
-        /**************/
-	}
+}
 
 	/* Debug */
 	Node_vDebugOutdent(DEBUG_DEVICE_FUNC);
@@ -423,13 +417,13 @@ PUBLIC teJIP_Status Device_eJipInit(void)
 	#if MK_REG_MIB_NO2_STATUS
 		MibNO2status_vRegister();
 	#endif
-    #if MK_REG_MIB_O3_STATUS
-	    MibO3status_vRegister();
-    #endif
-    #if MK_REG_MIB_H2S_STATUS
-        MibH2Sstatus_vRegister();
-    #endif
-    /***************/
+    	#if MK_REG_MIB_O3_STATUS
+		MibO3status_vRegister();
+    	#endif
+    	#if MK_REG_MIB_H2S_STATUS
+        	MibH2Sstatus_vRegister();
+    	#endif
+	
 	/* Debug */
 	Node_vDebugOutdent(DEBUG_DEVICE_FUNC);
 	DBG_vPrintf(DEBUG_DEVICE_FUNC, "=%d", eStatus);
@@ -706,21 +700,21 @@ PUBLIC void Device_vAppTimer100ms(void)
 PUBLIC void Device_vSecond(uint32 u32TimerSeconds)
 {
 	/* Pass second timer onto application MIBs here */
-#if MK_BLD_MIB_CO_STATUS
-MibCOstatus_vAppTimer(u32TimerSeconds);
-#endif
+	#if MK_BLD_MIB_CO_STATUS
+		MibCOstatus_vAppTimer(u32TimerSeconds);
+	#endif
 
-#if MK_BLD_MIB_O3_STATUS
-MibO3status_vAppTimer(u32TimerSeconds);
-#endif
+	#if MK_BLD_MIB_O3_STATUS
+		MibO3status_vAppTimer(u32TimerSeconds);
+	#endif
 
-#if MK_BLD_MIB_NO2_STATUS
-MibNO2status_vAppTimer(u32TimerSeconds);
-#endif
+	#if MK_BLD_MIB_NO2_STATUS
+		MibNO2status_vAppTimer(u32TimerSeconds);
+	#endif
 
-#if MK_BLD_MIB_H2S_STATUS
-MibH2Sstatus_vAppTimer(u32TimerSeconds);
-#endif
+	#if MK_BLD_MIB_H2S_STATUS
+		MibH2Sstatus_vAppTimer(u32TimerSeconds);
+	#endif
 }
 
 /****************************************************************************
