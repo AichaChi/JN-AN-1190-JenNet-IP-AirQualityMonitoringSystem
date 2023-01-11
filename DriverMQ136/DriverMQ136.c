@@ -49,32 +49,32 @@ PUBLIC float DriverMQ136_getro(float resvalue)
 
 PUBLIC float DriverMQ136_getppm(float resvalue,float ro)
 {
-   float f = resvalue/(float)ro;
-   float f2 = f*f;
-   float f3 = f*f*f;
-   float f4 = f*f*f*f;
-   float f5 = f*f*f*f;
-   if ((f<= INT2_H2S ) && (f>= INT1_H2S ))
+	float f = resvalue/(float)ro;
+	float f2 = f*f;
+	float f3 = f*f*f;
+	float f4 = f*f*f*f;
+	float f5 = f*f*f*f;
+	if ((f<= INT2_H2S ) && (f>= INT1_H2S ))
 	{
 		float H2Sppm = (float)(VAL10_H2S*f3+VAL11_H2S*f2+VAL12_H2S*f+VAL13_H2S);
 		return H2Sppm;
 	}
-   else if ((f<= INT3_H2S) && (f>= INT2_H2S))
+	else if ((f<= INT3_H2S) && (f>= INT2_H2S))
 	{
-	     float H2Sppm = (float)(VAL20_H2S*f2+VAL21_H2S*f+VAL22_H2S);
-		 return H2Sppm;
+		float H2Sppm = (float)(VAL20_H2S*f2+VAL21_H2S*f+VAL22_H2S);
+		return H2Sppm;
 	}
-   else if ((f<= INT4_H2S) && (f>= INT3_H2S))
+	else if ((f<= INT4_H2S) && (f>= INT3_H2S))
 	{
 		 float H2Sppm = (float)(VAL30_H2S*f4+VAL31_H2S*f3+VAL32_H2S*f2+VAL33_H2S*f+VAL34_H2S);
 		 return H2Sppm;
 	}
-   else if ((f<= INT5_H2S) && (f>= INT4_H2S))
-	 {
+	else if ((f<= INT5_H2S) && (f>= INT4_H2S))
+	{
 		float H2Sppm = (float)(VAL40_H2S*f4+VAL41_H2S*f3+VAL42_H2S*f2+VAL43_H2S*f+VAL44_H2S);
 		return H2Sppm;
-	 }
-   else return 0;
+	}
+	else return 0;
 }
 
 
