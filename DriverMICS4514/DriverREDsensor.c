@@ -39,7 +39,7 @@ PUBLIC int16 DriverREDsensor_i16Analogue(uint8 u8Adc, uint16 u16AdcRead)
 	}
 }
 
-/* get the calibrated ro based upon read resistance, and a know ppm */
+/* get the calibrated ro based upon read resistance, and a known ppm */
 PUBLIC float DriverREDsensor_getro(float resvalue)
  {
 	return (float)(resvalue / (float)RED_SENSOR_MAX_RSRO  );
