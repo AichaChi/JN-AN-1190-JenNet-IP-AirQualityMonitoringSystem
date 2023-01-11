@@ -105,9 +105,9 @@ PUBLIC void MibDioStatus_vInit(thJIP_Mib         hMibDioStatusInit,
         /* Take a copy of the MIB handle */
         psMibDioStatus->hMib = hMibDioStatusInit;
 
-		/* Read values from registers */
-		psMibDioStatus->sTemp.u32Input     = (u32AHI_DioReadInput()       & MIB_DIO_MASK);
-		psMibDioStatus->sTemp.u32Interrupt = (u32AHI_DioInterruptStatus() & MIB_DIO_MASK);
+	/* Read values from registers */
+	psMibDioStatus->sTemp.u32Input     = (u32AHI_DioReadInput()       & MIB_DIO_MASK);
+	psMibDioStatus->sTemp.u32Interrupt = (u32AHI_DioInterruptStatus() & MIB_DIO_MASK);
     }
 }
 
